@@ -237,7 +237,8 @@
         "createdAt": 1504095567183,
         "updatedAt": 1504095567183,
         "is_favorite": false,
-        "id": 10
+        "id": 10,
+		"photograph": 10
       }
     ],
     "reviews": [
